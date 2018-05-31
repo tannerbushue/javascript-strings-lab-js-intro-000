@@ -8,6 +8,6 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
-console.log(greeting)
-console.log(greetSpecialGuest)
-console.log("Let's talk about " , topic , ".")
+console.log(greeting);
+console.log(greetSpecialGuest);
+console.log("Let's talk about " , topic , ".");
