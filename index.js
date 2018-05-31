@@ -10,4 +10,4 @@ var conversation = `${topic}`;
 
 console.log(greeting);
 console.log(greetSpecialGuest);
-console.log(topic);
+console.log(conversation);
